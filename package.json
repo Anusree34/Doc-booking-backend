@@ -1,0 +1,14 @@
+{
+  "name": "doctor-booking-backend",
+  "version": "1.0.0",
+  "description": "doctor-booking app",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
